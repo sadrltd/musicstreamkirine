@@ -11,6 +11,16 @@
     "type": "git",
     "url": "https://github.com/sadrltd/musicstreamkirine"
   },
+  
+   "settings": {
+    "prefix": "¤",
+    "autodeletemsg": true,
+    "deleteTimeout": 3000,
+    "deleteTimeoutLong": 6000,
+    "maxvcslots": 12,
+    "leaveAfterEndOfPlaylist": false
+  },
+  
   "author": "Monsters Inc.",
   "dependencies": {
     "discord.js": "^11.0.0",
