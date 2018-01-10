@@ -2,6 +2,7 @@ const Discord = require(`discord.js`);
 const fs = require(`fs`);
 
 var config;
+var port = process.env.PORT || 5000;
 
 var bot = new Discord.Client();
 
