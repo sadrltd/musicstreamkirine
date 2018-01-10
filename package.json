@@ -1,0 +1,23 @@
+{
+  "name": "Kirine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadrltd/musicstreamkirine"
+  },
+  "author": "Monsters Inc.",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "uws": "^0.14.5"
+  },
+  "optionalDependencies": {
+    "cleverbot.io": "^1.0.4",
+    "ytdl-core": "^0.14.0"
+  }
+}
